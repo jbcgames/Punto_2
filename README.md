@@ -65,5 +65,5 @@ Este repositorio contiene el código y las instrucciones necesarias para realiza
 - Consulte los códigos fuente `kernel_editado.cu` y `kernel_editado_p2.cu` para más detalles sobre la instrumentación del código y la recolección de datos.
 
 ---
-**Autor:** jbcgames
+**Autor:** Miguel Angel Alvarez Guzman
 
